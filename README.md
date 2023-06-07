@@ -1,4 +1,5 @@
-# Hey whats'up!
+# Hey, whats'up!
+![kozak-developer-cover](https://github.com/Berliner187/Berliner187/blob/main/cover-kozak.png)
 
 I'm:
 - Progremmer
