@@ -2,7 +2,7 @@
 ![kozak-developer-cover](https://github.com/Berliner187/Berliner187/blob/main/cover-kozak.png)
 
 I'm:
-- Progremmer
+- Programmer
 - Web-developer
 - Designer
 - Investor
