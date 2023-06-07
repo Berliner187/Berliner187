@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Berliner187
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Puthon and making web-sites
-- 📫 How to reach me: Telegram - @schneller_los
+# Hey whats'up!
 
-<!---
-Berliner187/Berliner187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm:
+- Progremmer
+- Web-developer
+- Designer
+- Investor
+- Investment Analyst
+
+I strive to improve programming skills at my university. There are pet projects in which I implement new knowledge and skills, you can get acquainted with them on my GitHub: https://github.com/Berliner187 , as well as on the business card website: https://berliner187.github.io
+
+## Society
+- Telegram - @schneller_los
+- Dribbble - https://dribbble.com/kozak_developer
+- Pinterest - https://ru.pinterest.com/KOZAK_DEVELOPER
+- Boosty - https://boosty.to/kozak-developer
