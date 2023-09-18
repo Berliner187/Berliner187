@@ -1,5 +1,5 @@
 # Hey, whats'up!
-![kozak-developer-cover](https://github.com/Berliner187/Berliner187/blob/main/cover-kozak.png)
+![kozak-developer-cover](https://github.com/Berliner187/Berliner187/blob/main/kozak-preview.png)
 
 I'm:
 - Programmer
